@@ -1,13 +1,9 @@
 /*
-Theme Name: Starkers
-Theme URI: http://elliotjaystocks.com
-Description: The totally nude Wordpress theme. Phwoar! (Based on Twenty Ten)
-Version: 3.0
-Author: Elliot Jay Stocks
-Author URI: http://elliotjaystocks.com
-Tags: starkers, naked, clean, basic
+Theme Name: H5BP2Starkers
+Theme URI: http://github.com/ghostbar/h5bp2starkers
+Description: The totally nude Wordpress theme. Phwoar! (Based on Twenty Ten) with HTML5 Boilerplate integrated support.
+Version: 3.1
+Author: Jose Luis Rivas
+Author URI: http://ghostbar.ath.cx
+Tags: starkers, naked, clean, basic, html5
 */
-
-@import "css/reset.css";
-@import "css/typography.css";
-@import "css/layout.css";
