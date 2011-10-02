@@ -32,7 +32,7 @@
 
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
-	<link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/css/style.css" />
+	<link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/css/style.css">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
   <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
 
