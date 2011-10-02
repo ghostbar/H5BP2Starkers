@@ -10,8 +10,8 @@
  * This can be overridden in child themes with loop-attachment.php.
  *
  * @package WordPress
- * @subpackage Starkers
- * @since Starkers 3.1
+ * @subpackage H5BP2Starkers
+ * @since H5BP2Starkers 3.1
  */
 ?>
 

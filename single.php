@@ -3,8 +3,8 @@
  * The Template for displaying all single posts.
  *
  * @package WordPress
- * @subpackage Starkers
- * @since Starkers 3.1
+ * @subpackage H5BP2Starkers
+ * @since H5BP2Starkers 3.1
  */
 
 get_header(); ?>

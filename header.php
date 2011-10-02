@@ -5,8 +5,8 @@
  * Displays all of the <head> section and everything up till <div id="main">
  *
  * @package WordPress
- * @subpackage Starkers
- * @since Starkers 3.1
+ * @subpackage H5BP2Starkers
+ * @since H5BP2Starkers 3.1
  */
 ?><!DOCTYPE html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
