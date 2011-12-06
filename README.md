@@ -385,3 +385,11 @@ There are two releases: a documented release (which is exactly what you see here
 
 Watch the [current tickets](http://github.com/paulirish/html5-boilerplate/issues) to view the areas of active development.
 
+=======
+# Hi Everyone! ☺
+
+## [This repo has moved!](https://github.com/h5bp/html5-boilerplate)
+
+# [HTML5 Boilerplate Github](https://github.com/h5bp/html5-boilerplate)
+
+Thank youuu
